@@ -6,7 +6,7 @@ When an undergraduate, I took ECE 3430 (Intro to Embedded), SYS 2048 and 3048 (I
 Design), and MAE 4710 (Mechatronics). I have experience programming with Java, C, and Arduino (a mix of C and C++) languages, along with 
 HTML/CSS with WordPress templates.  Coding projects I have worked on include software for thermal imaging goggles, the projects from ECE 
 3430, a mini greenhouse project, line-following and beacon-following robots, a robotic arm for undergrad capstone, and website 
-construction.
+construction. 
 
 Interests:
 I am very interested in learning more about cyber-physical systems and the Internet of Things.  In this class, I am hoping to dramatically 
